@@ -6,6 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yooking.top/blog"/>
     <subtitle>Yooking Blog</subtitle>
+    <icon>https://yooking.top/img/2.png</icon>
     <entry>
         <title type="html"><![CDATA[New start]]></title>
         <id>New start</id>
