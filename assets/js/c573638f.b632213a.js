@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[964],{8866:function(e){e.exports=JSON.parse('[{"label":"Random Thoughts","permalink":"/tags/random-thoughts","count":1}]')}}]);
