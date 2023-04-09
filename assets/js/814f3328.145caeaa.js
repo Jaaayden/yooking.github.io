@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\u6700\u8fd1\u535a\u6587","items":[{"title":"New start","permalink":"/blog/New start"}]}')}}]);
